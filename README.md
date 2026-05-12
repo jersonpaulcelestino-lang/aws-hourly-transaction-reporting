@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AWS Transaction Reporting Automation
 
 Automated serverless solution for transactional report generation using AWS Lambda, integrated with MongoDB and Amazon S3.
@@ -26,3 +27,7 @@ Technologies
 
 Arquitectura:
 EventBridge → AWS Lambda → MongoDB → OpenPyXL Report Generation → Amazon S3 → Email Delivery
+=======
+# aws-hourly-transaction-reporting
+Serverless reporting automation with AWS Lambda, EventBridge, MongoDB and Amazon S3.
+>>>>>>> c68529628ccdf1971261ed0774a690e76cc6eb3a
